@@ -74,3 +74,5 @@ Data Visualization & Business Analysis
   Dipanshu Singh
 
   Aspiring Data Analyst | SQL | Excel | Power BI | Python
+
+  If you find this project useful, consider ⭐ starring the repository.
